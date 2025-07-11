@@ -1,0 +1,35 @@
+[
+  {
+    "Bebidas": {
+      "Jugo": 5000,
+      "Malteada": 8000,
+      "Limonada": 7000
+    },
+    "Entradas": {
+      "Empanada": 5000,
+      "Palitos_de_queso": 5000
+    },
+    "Platos_fuertes": {
+      "Pollo": 18000,
+      "Costillas": 21000,
+      "Pasta": 17000
+    },
+    "Postres": {
+      "Cheesecake": 8000,
+      "Helado": 5000
+    },
+    "Nombre": "Default Menu"
+  },
+  {
+    "Bebidas": {
+      "bebida 1": "1523",
+      "bebida 32": "21"
+    },
+    "Entradas": {},
+    "Platos_fuertes": {
+      "uwu": "123"
+    },
+    "Postres": {},
+    "Nombre": "juan"
+  }
+]
